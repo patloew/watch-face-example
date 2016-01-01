@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="watchface_preview_elevation">4dp</dimen>
+</resources>

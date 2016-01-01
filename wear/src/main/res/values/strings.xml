@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Watch Face Example</string>
+    <string name="my_analog_name">My Analog</string>
+</resources>

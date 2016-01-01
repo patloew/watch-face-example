@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Watch Face Example</string>
+    <string name="menu_ambient_mode">Toggle Ambient Mode</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="seconds_hand_stroke">1.5dp</dimen>
+    <dimen name="minute_hand_stroke">3dp</dimen>
+    <dimen name="hour_hand_stroke">5dp</dimen>
+
+    <dimen name="minute_outer_offset">25dp</dimen>
+    <dimen name="hour_outer_offset">40dp</dimen>
+    <dimen name="second_outer_offset">10dp</dimen>
+
+    <dimen name="watchface_preview_square_radius">8dp</dimen>
+</resources>

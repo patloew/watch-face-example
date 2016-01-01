@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/ll_watchface"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="26dp"
+        android:paddingLeft="24dp"
+        android:paddingBottom="24dp"
+        android:paddingRight="24dp">
+
+        <ImageView
+            android:id="@+id/iv_watchface"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginRight="12dp"
+            android:layout_gravity="center"
+            android:scaleType="centerInside"
+            android:adjustViewBounds="true"/>
+
+        <ImageView
+            android:id="@+id/iv_watchface_square"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:scaleType="centerInside"
+            android:adjustViewBounds="true"/>
+
+    </LinearLayout>
+
+    <!-- Include your preferences fragment here -->
+
+    <!--<fragment
+        android:id="@+id/watchface_pref_fragment"
+        android:name="com.patloew.watchfaceexample.WatchfacePreferenceFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>-->
+
+</LinearLayout>

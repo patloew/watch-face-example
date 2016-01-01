@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="watchface_background">#000000</color>
+    <color name="watchface_background_light">#FFFFFF</color>
+    <color name="watchface_preview_border">#808080</color>
+    <color name="second_hand">#CC0A00</color>
+    <color name="minute_hand">#2881FD</color>
+    <color name="hour_hand">#4DC57B</color>
+
+    <color name="low_bit_ambient_hand">#FFFFFF</color>
+</resources>
